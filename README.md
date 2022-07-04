@@ -1,0 +1,1 @@
+# AZURE-Remove-Azure-Role-from-Resource-Group
