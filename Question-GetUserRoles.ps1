@@ -10,7 +10,7 @@
 param ($au2matorhook)
 
 #Environment
-[string]$CredentialStorePath = "C:\_SCOworkingDir\TFS\PS-Services\CredentialStore" #see for details: https://au2mator.com/documentation/powershell-credentials/?utm_source=github&utm_medium=social&utm_campaign=AZURE_RemoveResourceGroupRole&utm_content=PS1
+[string]$CredentialStorePath = "C:\_SCOworkingDir\TFS\PS-Services\CredentialStore" #see for details: https://click.au2mator.com/PSCreds/?utm_source=github&utm_medium=social&utm_campaign=AZURE_RemoveResourceGroupRole&utm_content=PS1
 [string]$LogPath = "C:\_SCOworkingDir\TFS\PS-Services\AZURE - Remove Role from Azure Resource Group\Logs"
 [string]$LogfileName = "Question-GetUserRoles"
 
